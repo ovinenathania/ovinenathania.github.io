@@ -1,0 +1,43 @@
+{
+    "menu": [
+      
+        
+        {
+            "company": "ABC Company",
+            "where": "Hongkong",
+            "date": "8th January - 9th January",
+            "gambar": "Hongkong.jpeg"
+        },
+        {
+            "company": "BCD Company",
+            "where": "Singapore",
+            "date": "20th February - 22nd February",
+            "gambar": "Singapore.jpg"
+        },
+        {
+            "company": "CDE Company",
+            "where": "Malaysia",
+            "date": "10th March",
+            "gambar": "Malaysia.jpg"
+        },
+        {
+            "company": "EFG Company",
+            "where": "Taiwan",
+            "date": "22nd March",
+            "gambar": "Taiwan.jpg"
+        }
+        
+        
+       
+    ],
+    
+    "profile":{
+      "pp":"Isabelle.png",
+      "name":"Isabelle",
+      "job":"Manager",
+      "company":"Animal Crossing Company"
+    }
+    
+  
+}
+
